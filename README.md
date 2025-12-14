@@ -1,5 +1,5 @@
 ## Hi there 👋
-![图片文字](IMG_2040.JPG).
+![图片文字](profile.jpg).
 
 **SUNJIAMING111/SUNJIAMING111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
